@@ -1,0 +1,90 @@
+#wrapper{
+	width : 1000px;
+	margin: auto;
+}
+
+table{
+	text-align : center;
+	border-collapse : collapse;
+	margin : auto;
+	width : 1000px;
+}
+
+td{
+	border : 1px solid black;
+	height : 50px;
+	font-weight : Bold;
+	font-size : 18px;
+	background-color : orange;
+}
+
+div.color {
+	float :right;
+	text-align : right;
+	margin-top : 10px;
+	line-height : 30px;
+}
+
+input[type="text"] {
+	width : 75%;
+	height : 60%;
+	text-align : center;
+	border : none;
+	background-color : #FAFAFA;
+}
+input.ansText{
+	width: 88%;
+}
+
+table.selectTable{
+	width : 700px;
+	float : left;
+	margin-bottom: 5px;
+}
+
+table.selectTable th {
+	border : none;
+	background-color : white;
+	padding : 10px;
+	color : orange;
+	font-weight : Bold;
+	font-size : 24px;
+}
+
+table.selectTable td{
+	border : 5px solid orange;
+	background-color : white;
+	font-size : 15px;
+	height : 30px;
+}
+table.selectTable td.num{
+	width : 100px;
+	font-size : 36px;
+}
+
+.center{
+	text-align : center;
+	margin-top: 15px;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination a.active {
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+  border-radius: 5px;
+}

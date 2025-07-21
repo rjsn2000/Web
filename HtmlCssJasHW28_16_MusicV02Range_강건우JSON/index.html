@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=0.65, user-scalable=no, text-size-adjust=100%">
+  <title>Album_강건우</title>
+ </head>
+<style>
+@font-face {
+    font-family: 'Pretendard';
+	font-weight: 45 920;
+	font-style: normal;
+	font-display: swap;
+	src: url('./font/Pretendard/woff2/PretendardGOVVariable.woff2') format('woff2-variations');
+}
+@font-face {
+    font-family: 'Jua';
+	font-style: normal;
+	font-display: swap;
+	src: url('./font/Jua/Jua-Regular.ttf');
+}
+#wrapper {
+	font-family : 'Pretendard';
+	width : 500px;
+	margin : auto;
+}
+body {
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%; /* iOS, Android Chrome, Safari 등 */
+    text-size-adjust: 100%;       /* 표준 */
+}
+p.count{
+	text-align : center;
+	font-size : 25px;
+	font-weight : bold;
+	display : none;
+}
+span {
+	font-family : sans-serif;
+	font-weight : 600;
+	margin-left : 28px;
+	line-height : 30px;
+}
+input[type="button"] {
+	text-align : center;
+	line-height : 45px;
+	width : 60px;
+	height: 45px;
+	margin-left: 18px;
+	margin-top : 10px;
+	font-size : 21px;
+	background-color : rgba(36,36,36,0.95);
+	border : none;
+	color : #EEEEEE;
+	border-radius : 7px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+p.album{
+	text-align : center;
+	font-size : 20px;
+	font-weight : 800;
+	margin-top : 28px;
+}
+p.intro{
+	text-align : left;
+	font-size : 14px;
+	line-height : 20px;
+}
+img{
+	margin : auto;
+	position : relative;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+	border-radius : 10px;
+}
+.select{
+	font-family : 'Jua';
+	box-sizing : border-box;
+	background-color : rgba(0, 0, 0, 0.3);
+	border-radius : 10px;
+	color : white;
+	margin-top : 10px;
+	top: 68px;
+	padding : 40px;
+	position : absolute;
+	width : 500px;
+	line-height : 20px;
+	font-size : 15px;
+	font-weight : 400;
+	text-align : left;
+	height : 500px;
+	z-index : 3;
+	visibility : hidden;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.select p {
+	cursor: pointer;
+}
+.select p:hover{
+	font-weight : 900;
+}
+.selected{
+	font-weight : 900;
+	text-shadow : 2px 2px 1px #8977AD;
+}
+input.menu{
+	float : right;
+	margin-bottom : 15px;
+	margin-right : 5px;
+}
+.tooltip {
+  position: relative;
+  float: right;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-weight : 800;
+  position: absolute;
+  z-index: 4;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+#lyrics {
+	box-sizing : border-box;
+	top : 78px;
+	padding : 40px;
+	padding-top: 20px;
+	background-color : rgba(255,255,255,0.7);
+	position : absolute;
+	width : 500px;
+	height : 500px;
+	font-weight : 500;
+	font-size : 15px;
+	line-height : 30px;
+	border-radius : 10px;
+	text-align : left;
+	z-index : 2;
+	overflow: scroll;
+	overflow-x: hidden;
+	visibility: hidden;
+}
+
+#lyrics p {
+	font-weight : 900;
+	font-size : 25px;
+}
+
+input[type="range"]{
+	height: 10px;
+	margin-left : 10px;
+	width : 350px;
+	border : none;
+}
+.slidebar {
+	margin: 10px;
+	margin-bottom: 0px;
+}
+</style>
+
+<body>
+
+ <div id = "wrapper">
+ <p class ="count"> 
+	Album : <span id= "count"> 1</span>
+</p>
+	<div class="tooltip">
+	<input type = "button" onclick = "mList()" value = "⁝" class = "menu"></input>
+	<span class="tooltiptext">Album List</span>
+	</div>
+
+	<div class="tooltip">
+	<input type = "button" onclick = "mLyrics()" value = "≡" class = "menu"></input>
+	<span class="tooltiptext">Lyrics</span>
+	</div>
+
+	<div class="tooltip">
+	<input type = "button" onclick = "mLoop()" value = "→" class = "menu" id = "shuffle"></input>
+	<span class = "tooltiptext" id ="shuffleTooltip">반복 없음</span>
+	</div>
+
+ 
+<img src="./album/1.webp" width="500" height="500" name = "img01">
+	<!--
+	<select size = "17" onChange = "mSelect(this.value)" id = "list" >
+		<option value="1">I - The 1st Mini Album</option>
+		<option value="2">Rain - SM STATION Digital Single</option>
+		<option value="3">Why - The 2nd Mini Album</option>
+		<option value="4">11:11 - Digital Single</option>
+		<option value="5">My Voice - The 1st Album</option>
+		<option value="6">My Voice Deluxe Edition - The 1st Album Repackage</option>
+		<option value="7">This Christmas – Winter is Coming - The Winter Special Album</option>
+		<option value="8">Something New - The 3rd Mini Album</option>
+		<option value="9">사계 (Four Seasons) - Digital Single</option>
+		<option value="10">Purpose - The 2nd Album</option>
+		<option value="11">Purpose - The 2nd Album Repackage</option>
+		<option value="12">Happy - Digital Single</option>
+		<option value="13">What Do I Call You - The 4th Mini Album</option>
+		<option value="14">Weekend - Digital Single</option>
+		<option value="15">INVU - The 3rd Album</option>
+		<option value="16">To. X - The 5th Mini Album</option>
+		<option value="17">Heaven - Single</option>
+		<option value="18">Letter To Myself - The 6th Mini Album</option>
+	 </select>
+	-->
+	<div class = "select" id = "list">
+		<p onclick = "mSelect(1)">I - The 1st Mini Album</p>
+		<p onclick = "mSelect(2)">Rain - SM STATION Digital Single</p>
+		<p onclick = "mSelect(3)">Why - The 2nd Mini Album</p>
+		<p onclick = "mSelect(4)">11:11 - Digital Single</p>
+		<p onclick = "mSelect(5)">My Voice - The 1st Album</p>
+		<p onclick = "mSelect(6)">My Voice Deluxe Edition - The 1st Album Repackage</p>
+		<p onclick = "mSelect(7)">This Christmas – Winter is Coming - The Winter Special Album</p>
+		<p onclick = "mSelect(8)">Something New - The 3rd Mini Album</p>
+		<p onclick = "mSelect(9)">사계 (Four Seasons) - Digital Single</p>
+		<p onclick = "mSelect(10)">Purpose - The 2nd Album</p>
+		<p onclick = "mSelect(11)">Purpose - The 2nd Album Repackage</p>
+		<p onclick = "mSelect(12)">Happy - Digital Single</p>
+		<p onclick = "mSelect(13)">What Do I Call You - The 4th Mini Album</p>
+		<p onclick = "mSelect(14)">Weekend - Digital Single</p>
+		<p onclick = "mSelect(15)">INVU - The 3rd Album</p>
+		<p onclick = "mSelect(16)">To. X - The 5th Mini Album</p>
+		<p onclick = "mSelect(17)">Heaven - Single</p>
+		<p onclick = "mSelect(18)">Letter To Myself - The 6th Mini Album</p>
+	</div>
+
+ <div id = "lyrics"></div>
+ <div class = "slidebar">
+	<input type="range" id="duration" name="" min="0" max="" value="0" oninput= "mPlayChange()">
+	<span id="output">0:00 / 0:00</span>
+	</div>
+<input type = "button" value = "<<" onclick = "mFirst()">
+<input type = "button" value = "<" onclick ="mPrevious()">
+<input type = "button" value = "▶" onclick ="mPlayPause()" id = "bPlay">
+<input type = "button" onclick = "mStop()" value = "■" id = "bPlay">
+<input type = "button" value = ">" onclick ="mNext()">
+<input type = "button" value = ">>" onclick = "mLast()">
+
+<p id = "albumName" class ="album"></p>
+<hr color ="black">
+<p id = "albumIntro" class = "intro"></p>
+</div>
+
+<audio id = "song">
+	<source id = "song_src" src ="./music/1.mp3" type ="audio/mpeg">
+	  브라우저가 오디오 태그를 지원하지 않습니다.
+</audio>
+
+
+
+ <script>
+  let aName = [];
+  let aIntro = [];
+  let aLyrics = [];
+
+  let count = 1;
+  let pStat = 0;
+  let song;
+  let song_src;
+  let bplay;
+  let toggle;
+  let lyrics;
+  let slide;
+  let output;
+  let loopCnt = 0;
+  let shuffle;
+  let shuffleTooltip;
+
+	fetch('songs.json')
+	  .then(res => res.json())
+	  .then(data => {
+		data.forEach(song => {
+		  aName.push(song.title);
+		  aIntro.push(song.intro);
+		  aLyrics.push(song.lyrics);
+		});
+		mInit();
+		// 확인용 출력
+		console.log('aName:', aName);
+		console.log('aIntro:', aIntro);
+		console.log('aLyrics:', aLyrics);
+	  })
+	  .catch(error => {
+		console.error('불러오기 실패:', error);
+	  });
+
+
+  function mInit(){
+	song = document.getElementById("song");
+	song_src = document.getElementById("song_src");
+	bplay = document.getElementById("bPlay");
+	toggle = document.getElementById("list");
+	lyrics = document.getElementById("lyrics");
+	slide = document.getElementById("duration");
+	output = document.getElementById("output");
+	shuffle = document.getElementById("shuffle");
+	shuffleTooltip = document.getElementById("shuffleTooltip");
+	mChange();
+	song.addEventListener('loadedmetadata', durationUpdate);
+	song.onended = function() {mSongNext()};
+	song.ontimeupdate = function() {durationUpdate()};
+	}
+
+	function mLoop(){
+		if (loopCnt == 0) {
+			song.loop = false;
+			loopCnt = 1;
+			shuffle.value = "⇄";
+			shuffleTooltip.innerText = "전체 반복";
+		} else if (loopCnt == 1)	{
+			song.loop = true;
+			loopCnt = 2;
+			shuffle.value = "1";
+			shuffleTooltip.innerText = "한곡 반복";
+		} else {
+			song.loop = false;
+			loopCnt = 0;
+			shuffle.value = "→";
+			shuffleTooltip.innerText = "반복 없음";
+		}
+	}
+
+
+function durationUpdate() {
+    if (isNaN(song.duration)) {
+        return;
+    }
+
+    let currentMin = Math.floor(song.currentTime / 60);
+    let currentSec = Math.floor(song.currentTime % 60).toString().padStart(2, '0');
+    let totalMin = Math.floor(song.duration / 60);
+    let totalSec = Math.floor(song.duration % 60).toString().padStart(2, '0');
+
+    let temp = `${currentMin}:${currentSec} / ${totalMin}:${totalSec}`;
+
+    slide.max = Math.floor(song.duration);
+    slide.value = Math.floor(song.currentTime);
+
+    output.innerText = temp;
+}
+
+	function mPlayChange(){
+		song.currentTime = slide.value;
+	}
+	
+  function mFirst(){
+	count = 1;
+	mChange();
+  }
+
+  function mSelect(num){
+	count = num;
+
+	mChange();
+  }
+
+
+  function mPrevious(){
+	if (count > 1) {
+		count--;
+	} else {
+		// alert("첫 번째 앨범입니다.");
+		count = 18;
+	}
+	mChange();
+  }
+
+  function mNext(){
+	if (count < 18) {
+		count++;
+	} else {
+		// alert("현재 최신 앨범입니다.");
+		count = 1;
+	}
+	mChange();
+  }
+
+  function mLast(){
+	count = 18;
+	mChange();
+  }
+
+  function mSongNext(){
+	count++;
+	if (count > 18 && loopCnt == 0) {
+		pStat = 0;
+		alert("현재 최신 곡입니다.");
+		count =	 18;
+		mStop();
+	} else if (count > 18) {
+		count = 1;
+	} 
+	mChange();
+  }
+
+  function mList() {
+	  if (toggle.style.visibility == 'visible') {
+		toggle.style.visibility = 'hidden';
+	  } else {
+  		lyrics.style.visibility = 'hidden';
+		toggle.style.visibility = 'visible';
+	  }
+  }
+  function mLyrics(){
+  	lyrics.innerHTML = aLyrics[count-1];
+	 if (lyrics.style.visibility == 'visible') {
+		lyrics.style.visibility = 'hidden';
+	  } else {
+  		toggle.style.visibility = 'hidden';
+		lyrics.style.visibility = 'visible';
+		//document.images[0].style.filter = 'blur(3px)';
+	  }
+  }
+  function mPlayPause() {
+	if (pStat == 0) {
+		pStat = 1;
+		song.play();
+		bplay.value = "❚❚"
+	} else if (pStat == 1) {
+		pStat = 0;
+		song.pause();
+		bplay.value = "▶"
+	}
+  }
+  function mStop() {
+	pStat = 0;
+	song.load();
+	song.pause();
+	bplay.value = "▶"
+  }
+
+  function mChange() {
+	song_src.src ="./music/" + count + ".mp3";
+	song.load();
+	if (pStat == 1) {
+		song.play();
+	}
+	let select = document.querySelectorAll('.select p');
+	for (let i = 0; i<select.length; i++)	{
+		select[i].classList.remove('selected');
+	}
+	select[count-1].classList.add('selected');
+  	lyrics.innerHTML = aLyrics[count-1];
+	lyrics.scrollTop = 0;
+	document.images[0].src = "./album/" + count + ".webp";
+	document.getElementById("count").innerHTML = count;
+	document.getElementById("albumName").innerHTML = aName[count-1];
+	document.getElementById("albumIntro").innerHTML = aIntro[count-1];  
+  }
+  </script>
+
+ </body>
+</html>

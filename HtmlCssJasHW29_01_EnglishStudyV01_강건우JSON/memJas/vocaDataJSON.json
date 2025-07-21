@@ -1,0 +1,1752 @@
+[
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  },
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  },
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  },
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  },
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  },
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  },
+  {
+    "word": "ancient",
+    "pronunciation": "éinʃənt",
+    "koreanMeaning": "고대의"
+  },
+  {
+    "word": "Egyptian",
+    "pronunciation": "idʒípʃən",
+    "koreanMeaning": "이집트 사람"
+  },
+  {
+    "word": "dead",
+    "pronunciation": "ded",
+    "koreanMeaning": "죽은"
+  },
+  {
+    "word": "into",
+    "pronunciation": "íntu",
+    "koreanMeaning": "안으로"
+  },
+  {
+    "word": "mummy",
+    "pronunciation": "mʌ́m",
+    "koreanMeaning": "미라"
+  },
+  {
+    "word": "preserve",
+    "pronunciation": "prizə́ːr",
+    "koreanMeaning": "지키다"
+  },
+  {
+    "word": "ruler",
+    "pronunciation": "rúːlǝr",
+    "koreanMeaning": "통치자"
+  },
+  {
+    "word": "pharaoh",
+    "pronunciation": "fέərou",
+    "koreanMeaning": "파라오"
+  },
+  {
+    "word": "believe",
+    "pronunciation": "bilíːv",
+    "koreanMeaning": "믿다"
+  },
+  {
+    "word": "hought",
+    "pronunciation": "θɔːt",
+    "koreanMeaning": "생각했다"
+  },
+  {
+    "word": "flow",
+    "pronunciation": "flou",
+    "koreanMeaning": "흐르다"
+  },
+  {
+    "word": "crop",
+    "pronunciation": "krɑp",
+    "koreanMeaning": "(농)작물"
+  },
+  {
+    "word": "northeast",
+    "pronunciation": "nɔ̀ːrθíːs",
+    "koreanMeaning": "북동쪽"
+  },
+  {
+    "word": "northward",
+    "pronunciation": "nɔ́ːrθwǝr",
+    "koreanMeaning": "북쪽으로"
+  },
+  {
+    "word": "through",
+    "pronunciation": "θruː",
+    "koreanMeaning": "~통해서"
+  },
+  {
+    "word": "Mediterranean",
+    "pronunciation": "mèdǝtǝréiniǝn",
+    "koreanMeaning": "지중해의"
+  },
+  {
+    "word": "visitor",
+    "pronunciation": "vízitǝr",
+    "koreanMeaning": "방문객"
+  },
+  {
+    "word": "knelt",
+    "pronunciation": "nelt",
+    "koreanMeaning": "무릎을 꿇다"
+  },
+  {
+    "word": "honor",
+    "pronunciation": "άnǝr",
+    "koreanMeaning": "존경하다"
+  },
+  {
+    "word": "body",
+    "pronunciation": "bάdi",
+    "koreanMeaning": "시신"
+  },
+  {
+    "word": "waste",
+    "pronunciation": "weist",
+    "koreanMeaning": "낭비하다"
+  },
+  {
+    "word": "poem",
+    "pronunciation": "póuim",
+    "koreanMeaning": "시"
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "hwíspǝr",
+    "koreanMeaning": "속삭이다"
+  },
+  {
+    "word": "amazing",
+    "pronunciation": "ǝméiziŋ",
+    "koreanMeaning": "놀랄만한"
+  },
+  {
+    "word": "participate",
+    "pronunciation": "pɑːrtísǝpèit",
+    "koreanMeaning": "참여하다"
+  },
+  {
+    "word": "rude",
+    "pronunciation": "ruːd",
+    "koreanMeaning": "버릇없는"
+  },
+  {
+    "word": "dull",
+    "pronunciation": "dʌl",
+    "koreanMeaning": "무딘"
+  },
+  {
+    "word": "press",
+    "pronunciation": "pres",
+    "koreanMeaning": "누르다"
+  },
+  {
+    "word": "secret",
+    "pronunciation": "síːkrit",
+    "koreanMeaning": "비밀"
+  },
+  {
+    "word": "awesome",
+    "pronunciation": "ɔ́ːsǝ",
+    "koreanMeaning": "장엄한"
+  },
+  {
+    "word": "soldier",
+    "pronunciation": "sóuldʒǝr",
+    "koreanMeaning": "군인"
+  },
+  {
+    "word": "collect",
+    "pronunciation": "kǝlékt",
+    "koreanMeaning": "수집하다"
+  },
+  {
+    "word": "route",
+    "pronunciation": "ruːt",
+    "koreanMeaning": "길"
+  },
+  {
+    "word": "culture",
+    "pronunciation": "kʌ́ltʃǝ",
+    "koreanMeaning": "문화"
+  },
+  {
+    "word": "system",
+    "pronunciation": "sístǝm",
+    "koreanMeaning": "체계"
+  },
+  {
+    "word": "popular",
+    "pronunciation": "pάpjǝlǝr",
+    "koreanMeaning": "인기 있는"
+  },
+  {
+    "word": "worship",
+    "pronunciation": "wə́ːrʃi",
+    "koreanMeaning": "숭배하다"
+  },
+  {
+    "word": "control",
+    "pronunciation": "kǝntróul",
+    "koreanMeaning": "통치하다"
+  },
+  {
+    "word": "form",
+    "pronunciation": "fɔːrm",
+    "koreanMeaning": "유형"
+  },
+  {
+    "word": "several",
+    "pronunciation": "sévərǝl",
+    "koreanMeaning": "몇의"
+  },
+  {
+    "word": "shown",
+    "pronunciation": "ʃoun",
+    "koreanMeaning": "보여준"
+  },
+  {
+    "word": "falcon",
+    "pronunciation": "fǽlkǝn",
+    "koreanMeaning": "매"
+  },
+  {
+    "word": "person",
+    "pronunciation": "pə́ːrsə",
+    "koreanMeaning": "사람"
+  },
+  {
+    "word": "lead",
+    "pronunciation": "liːd",
+    "koreanMeaning": "안내하다"
+  },
+  {
+    "word": "soul",
+    "pronunciation": "soul",
+    "koreanMeaning": "영혼"
+  },
+  {
+    "word": "tomb",
+    "pronunciation": "tuːm",
+    "koreanMeaning": "무덤"
+  },
+  {
+    "word": "toward",
+    "pronunciation": "tɔːrd",
+    "koreanMeaning": "~쪽으로"
+  },
+  {
+    "word": "seat",
+    "pronunciation": "seat",
+    "koreanMeaning": "앉히다"
+  },
+  {
+    "word": "decay",
+    "pronunciation": "dikéi",
+    "koreanMeaning": "부패하다"
+  },
+  {
+    "word": "forever",
+    "pronunciation": "fǝrévǝr",
+    "koreanMeaning": "영원히"
+  }
+]

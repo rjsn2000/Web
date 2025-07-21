@@ -1,0 +1,162 @@
+#wrapper{
+	width : 1340px;
+	margin:auto;
+	text-align : center;
+}
+#logo {
+	margin : auto;
+	float : left;
+	border-radius : 20px;
+	padding : 10px;
+}
+
+a {
+	text-decoration : none;
+	color : black;
+}
+
+span.logo01{
+	font-family : sans-serif;
+	font-weight : bold;
+	font-size : 25px;
+	text-shadow : 3px 3px 5px orange, 1px 1px white;
+	float : left;
+	margin-bottom : -30px;
+}
+
+span.logo02{
+	font-family : sans-serif;
+	font-weight : bold;
+	font-size : 45px;
+	color : red;
+	text-shadow : 1px 1px white, 3px 3px 6px red, 5px 5px 10px orange;
+	float : left;
+}
+ul.mainNav{
+	margin-left: -10px;
+	display : inline-block;
+	font-weight : bold;
+	font-size: 18px;
+	position : relative;
+}
+
+ul.mainNav >li{
+	margin :20px;
+	margin-bottom : 0px;
+	padding: 10px 15px 15px 15px;
+	list-style-type: none;
+	display : inline-block;
+	text-align : center;
+	cursor : pointer;
+}
+ul.mainNav > li:hover > ul{
+	background-color : white;	
+	border: 1px solid lightgray;
+	opacity : 1;
+	top : 60px;
+	transition: opacity 0.2s ease-in-out;
+	z-index: 2;
+}
+
+ul.subNav{
+	top : -10000px;
+	position : absolute;
+	padding : 15px;
+	margin-top : 10px;
+	margin-left : -20px;
+	z-index: 0;
+	opacity : 0;
+}
+
+ul.subNav >li {
+	list-style-type: none;
+	text-align : center;
+	margin : 10px 3px 10px 3px;
+}
+
+img.banner{
+	width : 100%;
+	cursor : pointer;
+}
+
+div.menu {
+	width : 25%;
+	float : left;
+	font-weight : bold;
+	font-size: 18px;
+	cursor : pointer;
+    overflow: hidden;
+}
+
+div.menu img{
+	width: 90%;
+	margin-bottom: -30px;
+	transition: transform 0.5s ease;
+}
+
+div.menu:hover img{
+	transform : scale(1.2);
+}
+div.menu p {
+	color : black;
+}
+div.menu:hover p{
+	color : red;
+	transition : 0.4s ease;
+}
+
+img.banner_last{
+	width : calc(45% - 30px);
+	border-radius : 30px;
+	margin-top: 35px ;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+  margin-top: 10px;
+}
+
+.active, .dot:hover {
+  background-color: #c81111;
+}
+
+.slide-container {
+  max-width: 1340px;
+  position: relative;
+  margin: auto;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -25px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.prev{
+	left: 0;
+
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}

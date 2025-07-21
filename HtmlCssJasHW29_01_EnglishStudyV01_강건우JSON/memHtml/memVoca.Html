@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./../memCss/memCommon.css">
+    <title>Document</title>
+</head>
+<body>
+<div id = "wrapper">
+	<div class = "color">
+		<br>
+	 선택단어 [ <span id ="selectedNum1"> 1 </span> / <span id ="selectedNum2"> 3 </span> ]
+	 <br>
+	  글자색 선택
+	  <input type="color" value="#000000" onchange = "mfontColor(this.value), mTextColorCng(this.value)">
+	  <br>
+	  배경색 선택
+	  <input type="color" value="#ffa500" onchange = "mbgColor(this.value), mBackColorCng(this.value)">
+		<!--<span id = ""> 선택단어[1/3] 단어선택 </span>-->
+	</div>
+	<table class = "selectTable">
+	 <thead>
+	  <tr>
+	    <th colspan = "3"> 시작단어선택</th>
+	    <th colspan = "3"> 마지막단어선택</th>
+	  </tr>
+	  <tr>
+	   <td rowspan = "2" class = "num" id = "firstNum" > 1</td>
+	   <td onclick = "firstNumChange(1)">▲ 1단위 </td>
+	   <td onclick = "firstNumChange(10)">▲ 10단위 </td>
+	   <td rowspan = "2" class = "num" id = "lastNum"> 3</td>
+   	   <td onclick = "lastNumChange(1)">▲ 1단위 </td>
+	   <td onclick = "lastNumChange(10)">▲ 10단위 </td>
+	  </tr>
+	  <tr>
+	   <td onclick = "firstNumChange(-1)">▼ 1단위 </td>
+	   <td onclick = "firstNumChange(-10)">▼ 10단위 </td>
+   	   <td onclick = "lastNumChange(-1)">▼ 1단위 </td>
+	   <td onclick = "lastNumChange(-10)">▼ 10단위 </td>
+	  </tr>
+	 </thead>
+	</table>
+	<div id = "DOMtable"></div>
+	<!--
+	<table id = "tableBody">
+	<thead>
+	 <tr>
+	  <td>번호</td>
+  	  <td colspan ="4">단어</td>
+	  <td colspan ="4">발음</td>
+  	  <td colspan ="4">뜻</td>
+	 </tr>
+	</thead>
+	 <tr>
+	  <td rowspan ="4">1</td>
+	  <td colspan ="4">abandon</td>
+	  <td colspan ="4">ǝbǽndǝn</td>
+	  <td colspan ="4">포기하다</td>
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="6"><input type = "text" class = "ansText" readonly></td>
+	 </tr>
+	 <tr>
+	  <td rowspan ="4">2</td>
+	  <td colspan ="4">abandoned</td>
+	  <td colspan ="4">ə|bӕndənd</td>
+	  <td colspan ="4">버림받은</td>
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="6"><input type = "text" class = "ansText" readonly></td>
+	 </tr>
+	 <tr>
+	  <td rowspan = "4">3</td>
+	  <td colspan ="4">abbreviated</td>
+	  <td colspan ="4">əbrí:vièitid</td>
+	  <td colspan ="4">축약된</td>
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	 </tr>
+	 <tr>
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="3"><input type = "text"></td>	 
+	  <td colspan ="6"><input type = "text" class = "ansText" readonly></td>
+	 </tr>
+	</table>-->
+	<div class ="center">
+		<div class = "pagination"></div>
+	</div>
+<audio id = "song">
+	<source id = "song_src" src ="./../memSound/answer.wav" type ="audio/mpeg">
+	  브라우저가 오디오 태그를 지원하지 않습니다.
+</audio>
+
+	</div>
+<script src = "./../memJas/memJas.js"></script>
+</body>
+</html>
